@@ -24,3 +24,7 @@ Add [filter list](https://github.com/TheHartly/JobBoardFilterList/blob/main/job_
 7. Add the list url `https://github.com/TheHartly/JobBoardFilterList/blob/main/job_board_list.txt`
 8. Click Apply changes
    ![image](https://github.com/TheHartly/JobBoardFilterList/assets/124456303/94212b6b-5610-410c-9fa8-69634a484ce5)
+
+# Contributing
+============
+If you want to contribute to a project and make it better, your help is very welcome. Please create a pull request to add to the list. Thanks.
