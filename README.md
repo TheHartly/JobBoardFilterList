@@ -1,6 +1,6 @@
 # Job Board Filter List for uBlock Origin
 
-Job boards such as LinkedIn you'll "Promoted" job listings which often times are unrelated to your search. This filter list can help weed out low quality positions from spamy comapnies.
+Job boards such as LinkedIn have "Promoted" job listings which often times are unrelated to your search. This filter list can help weed out low quality positions from spamy comapnies.
 
 ## Requirements
   
