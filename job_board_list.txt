@@ -1,0 +1,7 @@
+! *** https://github.com/TheHartly/JobBoardFilterList ***
+www.linkedin.com##li:has-text(Promoted)
+www.linkedin.com##li:has-text(Braintrust)
+www.linkedin.com##li:has-text(Jobot)
+www.linkedin.com##li:has-text(Dice)
+www.linkedin.com##li:has-text(CyberCoders)
+www.linkedin.com##li:has-text(Crossover)
