@@ -21,7 +21,7 @@ Add [filter list](https://github.com/TheHartly/JobBoardFilterList/blob/main/job_
 4. Scroll to the bottom
 5. Expand Import
    ![image](https://github.com/TheHartly/JobBoardFilterList/assets/124456303/3ccf820b-a299-4006-966e-ad918ca428ab)
-7. Add the list url `https://github.com/TheHartly/JobBoardFilterList/blob/main/job_board_list.txt`
+7. Add the list url `https://raw.githubusercontent.com/TheHartly/JobBoardFilterList/main/job_board_list.txt`
 8. Click Apply changes
    ![image](https://github.com/TheHartly/JobBoardFilterList/assets/124456303/94212b6b-5610-410c-9fa8-69634a484ce5)
 
